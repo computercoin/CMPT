@@ -1,0 +1,9 @@
+Building Computercoin
+
+See doc/readme-qt.rst for instructions on building Computercoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Computercoin.
+
+See doc/build-*.txt for instructions on building Computercoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Computercoin.
